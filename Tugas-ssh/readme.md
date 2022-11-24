@@ -6,7 +6,7 @@
 
 ![alt text](gambar1.png)
 
-## Buat folder dengan format <nama-kamu-lengkap-tanpa-spasi>/
+## Buat folder dengan format [nama-kamu-lengkap-tanpa-spasi]/
 
 ![alt text](gambar2.png)
 
