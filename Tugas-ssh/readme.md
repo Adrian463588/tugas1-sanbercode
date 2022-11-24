@@ -20,9 +20,9 @@
 
 ## Ubah file history.txt permission ke 660 dan folder permission 777.
 
-![alt text](gambar4.png)
-
-<br>
-<br>
-
 ![alt text](gambar5.png)
+
+<br>
+<br>
+
+![alt text](gambar4.png)
