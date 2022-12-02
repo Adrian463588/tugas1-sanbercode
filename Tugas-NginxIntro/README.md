@@ -1,7 +1,9 @@
 ## Cari perbandingan head to head antara NGINX dengan Apache dan jelaskan!
 
 <br>
-![alt text](gambar1.png)
+
+  ![alt text](gambar1.png)
+
 <br>
 
 keuntungan menggunakan NGINX dibanding Apache :
